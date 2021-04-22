@@ -1,7 +1,7 @@
 # the masthead
 main:
   - title: "Home"
-    url: /
+    url: /akmalds.github.io
   - title: "About"
     url: /about/
   - title: "Portfolio"
