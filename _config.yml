@@ -30,7 +30,7 @@ minimal_mistakes_skin: "dirt"
 # settings for author profile
 author:
   name   : "Akmal"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : ""
   bio    : "I enjoy writing about my practical experince I'm interested in - mostly computing and maths."
   location: "Pakistan"
   github : akmalds
