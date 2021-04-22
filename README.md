@@ -1,8 +1,7 @@
-# pwills.com
 
-Source for [pwills.com][4], hosted on GitHub Pages. Functions as an online
-resume/portfolio, as well as a place for me to rant & rave about technology and
-math. 
+
+This webpage was created from the [pwills.com][4], hosted on GitHub Pages. Functions as an online
+resume/portfolio and offers me a chance to tell you about my experience and interests ;-).
 
 To build the site locally, do
 
@@ -18,7 +17,7 @@ For a more detailed guide on how the site was built, check out [the how-to post
 on the blog][5]
 
 Site is built in jekyll on top of [Minimal Mistakes][1]. Uses images from
-[Unsplash][2]. If you have questions, drop me a line at [peter@pwills.com](mailto:peter@pwills.com).
+[Unsplash][2]. If you have questions, drop me a line at [akmal@namal.edu.pk](mailto:akmal@namal.edu.pk).
 
 [1]: https://github.com/mmistakes/minimal-mistakes
 
