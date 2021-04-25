@@ -1,3 +1,12 @@
+---
+title: "Taking a Stand"
+excerpt: ""
+date: 2020-11-04
+categories:
+- post
+tags:
+---
+
 This election cycle has made me see how tribalistic I can be in my perception of
 politics. It's very easy for me to fall into a point of view in which there is a "good
 team" and a "bad team." This perspective is harmful in that it causes other painful
