@@ -1,6 +1,6 @@
 ---
 title: "My Facourite Courses"
-excerpt: ""
+excerpt: "A comprehensive list of courses to improve technical as well as comminication skills."
 date: 2021-04-27
 categories:
 - post
