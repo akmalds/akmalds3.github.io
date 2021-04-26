@@ -21,4 +21,4 @@ Here is the list of some popular courses that I would love to take to improve my
 
 # Reseach Projects Reports
 
-  - [Facial Keypoint Detection with Neural Networks]https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj4/cs194-26-aga/#Introduction)
+  - [Facial Keypoint Detection with Neural Networks](https://inst.eecs.berkeley.edu/~cs194-26/fa20/upload/files/proj4/cs194-26-aga/#Introduction)
