@@ -1,37 +1,22 @@
 ---
-title: "Taking a Stand"
+title: "My Facourite Courses"
 excerpt: ""
-date: 2020-11-04
+date: 2021-04-27
 categories:
 - post
 tags:
 ---
 
-This election cycle has made me see how tribalistic I can be in my perception of
-politics. It's very easy for me to fall into a point of view in which there is a "good
-team" and a "bad team." This perspective is harmful in that it causes other painful
-emotions to arise (e.g. anger), but also in that it prevents me from contributing
-meaningfully to the political discourse and being a citizen that contributes to our
-country's progress.
+Here is the list of some popular courses that I would love to take to improve my skills.
 
-For me, the way to alleviate these tribalistic ideas is to replace them with a
-meaningful and well-articulated set of ideas and opinions. I think it's time for me to
-put myself out there as a person with opinions and ideas on how to improve our country.
+# Reseach Methods in Computer Science
+  ##University of Houston
+  - COSC 6321 - Research Methods In Computer Science (Spring 2020)
+  - http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s20/syllabus.html
 
-So, I'm going to outline my ideas in this post. These views will certainly change over
-time, and I hope to become better informed on all of them. That said, I think the
-foundational idea of democracy is that aggregating the opinions of many
-only-partly-informed citizens is better than only considering the opinions of an
-extremely-well-informed elite. So, in that spirit, I will endeavor to articulate my
-only-partly-informed viewpoint.
-
-Below, I will state my opinions as fact. I think it makes for a better articulation than
-if I'm couching each sentence with "in my opinion&#x2026;" and "as far as I can see&#x2026;", but
-the reader should be aware that this is implied; I'm far from an expert in most of these
-issues, and I am not citing most of my claims. If you think I'm wrong, then I probably
-am; please let me know in the comments, preferably with some reference to back up your
-correction. I'll happily modify this post as I update my understanding.
-
+  ##George Washington University
+  - CS 8901 Research & Evaluation Methods
+  - https://gwcsrm19.github.io/
 
 # Driving Values
 
