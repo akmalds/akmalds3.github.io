@@ -12,7 +12,7 @@ Here is the list of some popular courses that I would love to take to improve my
 # Reseach Methods in Computer Science
 ## University of Houston
   - COSC 6321 - Research Methods In Computer Science (Spring 2020)
-  - [http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s20/syllabus.html](http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s20/syllabus.html) by [Kevin Lin](mailto:klinime@berkeley.edu)
+  - [http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s20/syllabus.html](http://www2.cs.uh.edu/~gnawali/courses/cosc6321-s20/syllabus.html)by [Kevin Lin](mailto:klinime@berkeley.edu)
 
 ## George Washington University
   - CS 8901 Research & Evaluation Methods
