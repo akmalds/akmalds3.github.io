@@ -66,14 +66,17 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
-  # posts
+  # _posts
   - scope:
+      path: ""
       type: posts
     values:
-      toc: true
-      toc_label: "Contents"
-      read_time: false
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
+      share: true
+      related: true
   # portfolio
   - scope:
       path: ""
