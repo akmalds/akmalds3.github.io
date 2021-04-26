@@ -4,7 +4,7 @@ excerpt: "A comprehensive list of courses to improve technical as well as commin
 date: 2021-04-27
 categories:
 - post
-tags:courses, technical, communication, writing, research
+tags:
 ---
 
 Here is the list of some popular courses that I would love to take to improve my skills.
