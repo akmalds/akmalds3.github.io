@@ -1,7 +1,7 @@
 ---
 title: "Resources - Courses, Tutorials, Project Reports and Useful Repositories"
 excerpt: "A comprehensive list of courses to improve technical as well as comminication skills."
-date: 2021-04-27
+date: 2021-09-21
 categories:
 - post
 tags:
