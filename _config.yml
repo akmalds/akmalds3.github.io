@@ -15,6 +15,10 @@ exclude:
   - README.md
   - "*.org"
   - "*ltximg*"
+  
+# Google Analytics
+google_analytics: G-QKDL83Q1GQ
+
 
 plugins:
   - jekyll-feed
