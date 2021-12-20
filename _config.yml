@@ -15,10 +15,6 @@ exclude:
   - README.md
   - "*.org"
   - "*ltximg*"
-  
-# Google Analytics
-google_analytics: G-QKDL83Q1GQ
-
 
 plugins:
   - jekyll-feed
@@ -51,7 +47,7 @@ comments:
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-116208936-1"
+    tracking_id: "G-QKDL83Q1GQ"
 
 
 # pagination for blog page
