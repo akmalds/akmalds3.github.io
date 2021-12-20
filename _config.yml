@@ -47,7 +47,7 @@ comments:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-QKDL83Q1GQ"
+    tracking_id: "UA-191032973-1"
 
 
 # pagination for blog page
