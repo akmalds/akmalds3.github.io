@@ -44,11 +44,11 @@ comments:
   disqus:
     shortname: ""
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-191032973-1"
-    anonymize_ip: false # default
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-191032973-1"
+#     anonymize_ip: false # default
 
 
 # pagination for blog page
