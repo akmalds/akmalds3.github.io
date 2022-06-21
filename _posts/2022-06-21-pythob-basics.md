@@ -1,7 +1,7 @@
 ---
-title:  "DS Interview Study Guide Part II: Software Engineering"
+title:  "Python Basics"
 category: posts
-date: 2019-08-29
+date: 2022-06-21
 excerpt: "Part II of my guide to data science interviews, focusing on algorithms, data structures, and general programming knowledge and best practices."
 ---
 
